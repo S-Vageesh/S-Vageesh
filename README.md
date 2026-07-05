@@ -8,9 +8,7 @@ Mathematics & Computing Undergraduate • Cryptography Enthusiast • Competitiv
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Mathematics+%26+Computing+Student;Competitive+Programmer;Cryptography+%7C+Blockchain+%7C+Machine+Learning;Full+Stack+Developer;Always+Learning+Something+New!" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=19vageesh&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
+
 
 ---
 
@@ -106,26 +104,6 @@ Mathematics & Computing Undergraduate • Cryptography Enthusiast • Competitiv
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=19vageesh&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
