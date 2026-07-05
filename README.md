@@ -1,22 +1,140 @@
 <h1 align="center">Hi 👋, I'm Vageesh</h1>
-<h3 align="center">A passionate Mathematics and Computing student</h3>
 
-- 🔭 I’m currently working on **Cryptography in Fintech**
+<h3 align="center">
+Mathematics & Computing Undergraduate • Cryptography Enthusiast • Competitive Programmer
+</h3>
 
-- 🌱 I’m currently learning **Blockchain**
-
-- ⚡ Fun fact **I love anime**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/svageesh91378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svageesh91378" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vageesh-s-b64b4432b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vageesh-s-b64b4432b" height="30" width="40" /></a>
-<a href="https://instagram.com/vageesh847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vageesh847" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vageesh847" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vageesh847" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sv24mab0a30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sv24mab0a30" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/19vageesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="19vageesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/19vageesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="19vageesh" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Mathematics+%26+Computing+Student;Competitive+Programmer;Cryptography+%7C+Blockchain+%7C+Machine+Learning;Full+Stack+Developer;Always+Learning+Something+New!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=19vageesh&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 💫 About Me
+
+- 🎓 Mathematics & Computing Undergraduate at **NIT Warangal**
+- 🔐 Currently exploring **Cryptography for FinTech**
+- 🌱 Learning **Blockchain**, **Machine Learning** and 
+- 💻 Competitive Programmer on Codeforces, LeetCode & CodeChef
+- 📚 Interested in Algorithms, Distributed Systems and Security
+- ⚡ Fun fact: I can spend hours solving DSA problems and then watch anime all night 🍿
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vageesh-s-b64b4432b">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/vageesh847">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://twitter.com/svageesh91378">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/19vageesh">
+<img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/19vageesh">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces"/>
+</a>
+
+<a href="https://www.codechef.com/users/vageesh847">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+<a href="https://www.hackerrank.com/sv24mab0a30">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,rust,js,ts,html,css,react,nodejs,tailwind,mysql,postgres,git,tensorflow,pytorch,pandas"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=19vageesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19vageesh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=19vageesh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=19vageesh&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</p>
