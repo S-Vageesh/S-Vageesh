@@ -16,7 +16,7 @@ Mathematics & Computing Undergraduate • Cryptography Enthusiast • Competitiv
 
 - 🎓 Mathematics & Computing Undergraduate at **NIT Warangal**
 - 🔐 Currently exploring **Cryptography for FinTech**
-- 🌱 Learning **Blockchain**, **Machine Learning** and 
+- 🌱 Learning **Blockchain** and **Machine Learning** 
 - 💻 Competitive Programmer on Codeforces, LeetCode & CodeChef
 - 📚 Interested in Algorithms, Distributed Systems and Security
 - ⚡ Fun fact: I can spend hours solving DSA problems and then watch anime all night 🍿
